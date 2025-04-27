@@ -1,7 +1,7 @@
 # APIWiz-Multi-modal-Content-Writing-Tool
 Documentation for Multi-modal Content Writing Tool
 
-LIVE URL: 
+LIVE URL: https://pprathamjaiswal.github.io/multi-modal/
 
 1. Tech Stack & Infrastructure
 * Next.js was chosen for its performance optimization features such as server-side rendering, static site generation, and automatic code splitting, which enhance user       
