@@ -1,7 +1,7 @@
 # APIWiz-Multi-modal-Content-Writing-Tool
 Documentation for Multi-modal Content Writing Tool
 
-LIVE URL: https://api-wiz-multi-modal-content-writing-tool.vercel.app/
+LIVE URL: 
 
 1. Tech Stack & Infrastructure
 * Next.js was chosen for its performance optimization features such as server-side rendering, static site generation, and automatic code splitting, which enhance user       
