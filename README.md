@@ -1,4 +1,4 @@
-# APIWiz-Multi-modal-Content-Writing-Tool
+# Multi-modal-Content-Writing-Tool
 Documentation for Multi-modal Content Writing Tool
 
 LIVE URL: https://pprathamjaiswal.github.io/multi-modal/
